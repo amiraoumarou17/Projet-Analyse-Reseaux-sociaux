@@ -7,19 +7,10 @@
   Liens  : 88 234 amitiés
 =======================================================
 
-AVANT D'EXÉCUTER CE SCRIPT :
-  1. Téléchargez le dataset depuis :
-     https://snap.stanford.edu/data/facebook_combined.txt.gz
-  2. Décompressez l'archive → vous obtenez "facebook_combined.txt"
-  3. Placez ce fichier dans le même dossier que ce script
-  4. Installez les dépendances :
-     pip install networkx cdlib matplotlib seaborn pandas numpy
 
-EXÉCUTION :
-  python analyse_reseau.py
 """
 
-# ── Imports ───────────────────────────────────────────────────
+# ── Imports ───────────────────
 import networkx as nx
 import pandas as pd
 import numpy as np
