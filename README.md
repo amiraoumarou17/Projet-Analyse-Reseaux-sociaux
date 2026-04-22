@@ -1,8 +1,7 @@
-# Projet-Analyse-Reseaux-sociaux
-Projet sur l analyse du reseau avec identifications des communautes
+
 # Projet ARS2026 – Analyse des Réseaux Sociaux
 
-**Étudiant(e)** : [Votre Nom Complet]  
+**Étudiante** : AISSATOU AMIRA OUMAROU  
 **Cours** : Analyse des Réseaux Sociaux – 2026
 
 ---
@@ -18,11 +17,9 @@ Projet sur l analyse du reseau avec identifications des communautes
 
 ---
 
-## Téléchargement du dataset (OBLIGATOIRE avant exécution)
+## Téléchargement du dataset 
 
 1. Allez sur : **https://snap.stanford.edu/data/facebook_combined.txt.gz**
-2. Téléchargez et décompressez → vous obtenez `facebook_combined.txt`
-3. Placez ce fichier dans le **même dossier** que `analyse_reseau.py`
 
 ---
 
